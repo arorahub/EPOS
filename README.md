@@ -25,7 +25,6 @@
 Easy Point of Sales(EPOS) is a point of sales app built for fast casual dinning or retail enviroments. The system is developed on the .NET framework using C# for its backend, MSSQL for database and Winforms for GUI. This project is set up for a Pizza shop right now for user testing. EPOS has a built in user management system, payroll system, inventory managment system, order system and email system. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 A database connection has to be set up to allow EPOS to Run, the code is noted where the DB source connection string is needed.The forms that need to be updated with the DB source connection string are, InventoryMeny.cs, NewUser.cs, OrderScreen.cs,and Payroll.cs. The email system will also need to be updated with a valid email address and passsword. 
