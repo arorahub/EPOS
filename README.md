@@ -2,9 +2,6 @@
   <a href="" rel="noopener">
  <img src="https://i.imgur.com/WwNUEfe.png" alt="Project logo"></a>
 </p>
-
-<h3 align="center">Project Title</h3>
-
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
@@ -15,10 +12,6 @@
 </div>
 
 ---
-
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 - [About](#about)
@@ -32,16 +25,19 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+Easy Point of Sales(EPOS) is a point of sales app built for fast casual dinning or retail enviroments. The system is developed on the .Net framework using C# for its backend, MSSQL for database and Winforms for GUI. This project is set up for a Pizza shop right now for user testing. EPOS has a built in user management system, payroll system, inventory managment system, order system and email system. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+A database connection has to be set up to allow EPOS to Run, the code is noted where the DB source connection string is needed.The forms that need to be updated with the DB source connection string are, InventoryMeny.cs, NewUser.cs, OrderScreen.cs,and Payroll.cs. The email system will also need to be updated with a valid email address and passsword. 
+
 
 ```
-Give examples
+1.Clone EPOS repo
+2.Update code where noted 
+3.Run exe in C:\Users\user\source\repos\EPOS\EPOS\bin\Debug\EPOS.exe
 ```
 
 ### Installing
