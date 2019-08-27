@@ -1,0 +1,4 @@
+Date: 8/4/2019 12:00:00 AM
+Order Total: $13.98
+Amount Paid: $15
+Change$1.02
