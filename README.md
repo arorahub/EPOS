@@ -34,7 +34,7 @@ A database connection has to be set up to allow EPOS to Run, the code is noted w
 2.Install Visual Studio IDE
 2.Clone EPOS repo
 3.Update code where noted 
-4.Run exe in C:\Users\user\source\repos\EPOS\EPOS\bin\Debug\EPOS.exe
+4.Run exe in C:\Users\user\source\repos\EPOS\EPOS\bin\Debug\EPOS.exe 
 ```
 
 ## 🎈 Usage <a name="usage"></a>
