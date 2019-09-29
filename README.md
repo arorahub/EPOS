@@ -48,7 +48,7 @@ The system can run on any windows system.
 
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@KAr0ra](https://github.com/KAr0ra)
+- [@KAr0ra](https://github.com/arorahub)
 
 ##  🚧 TODO <a name = "TODO"></a>
 - My goal for this project is to rebuild it as a webapp on the ASP.Core Framework. Once it rebuilt anyone on any device will be able to use. 
